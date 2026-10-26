@@ -1,0 +1,5 @@
+LEVELS_COUNT = 21
+
+# Экран терминала
+SCREEN_WIDTH = 80
+SCREEN_HEIGHT = 24

@@ -1,0 +1,94 @@
+{
+  "weights": {
+    "food": 4,
+    "elixir": 2,
+    "scroll": 1,
+    "weapon": 1
+  },
+  "food": [
+    {
+      "subtype": "apple",
+      "name": "Яблоко",
+      "symbol": "a",
+      "health": 10
+    },
+    {
+      "subtype": "banana",
+      "name": "Банан",
+      "symbol": "b",
+      "health": 15
+    },
+    {
+      "subtype": "meat",
+      "name": "Жареное мясо",
+      "symbol": "t",
+      "health": 25
+    }
+  ],
+  "weapon": [
+    {
+      "subtype": "dagger",
+      "name": "Кинжал",
+      "symbol": "/",
+      "dice": "1d6",
+      "weight": 3
+    },
+    {
+      "subtype": "sword",
+      "name": "Меч",
+      "symbol": "/",
+      "dice": "3d4",
+      "weight": 2
+    },
+    {
+      "subtype": "axe",
+      "name": "Топор",
+      "symbol": "/",
+      "dice": "4d4",
+      "weight": 1
+    }
+  ],
+  "elixir": [
+    {
+      "subtype": "strength_elixir",
+      "name": "Эликсир силы",
+      "symbol": "!",
+      "strength": 3,
+      "duration": 8
+    },
+    {
+      "subtype": "agility_elixir",
+      "name": "Эликсир ловкости",
+      "symbol": "!",
+      "agility": 3,
+      "duration": 8
+    },
+    {
+      "subtype": "health_elixir",
+      "name": "Эликсир здоровья",
+      "symbol": "!",
+      "max_health": 15,
+      "duration": 8
+    }
+  ],
+  "scroll": [
+    {
+      "subtype": "strength_scroll",
+      "name": "Свиток силы",
+      "symbol": "?",
+      "strength": 2
+    },
+    {
+      "subtype": "agility_scroll",
+      "name": "Свиток ловкости",
+      "symbol": "?",
+      "agility": 2
+    },
+    {
+      "subtype": "health_scroll",
+      "name": "Свиток здоровья",
+      "symbol": "?",
+      "max_health": 10
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "zombie": {
+    "name": "Зомби",
+    "rank": 2,
+    "symbol": "z",
+    "health": 18,
+    "agility": 4,
+    "strength": 8,
+    "hostility": 7
+  },
+  "vampire": {
+    "name": "Вампир",
+    "rank": 4,
+    "symbol": "v",
+    "health": 16,
+    "agility": 12,
+    "strength": 7,
+    "hostility": 12
+  },
+  "ghost": {
+    "name": "Призрак",
+    "rank": 1,
+    "symbol": "g",
+    "health": 8,
+    "agility": 13,
+    "strength": 4,
+    "hostility": 6
+  },
+  "ogre": {
+    "name": "Огр",
+    "rank": 3,
+    "symbol": "O",
+    "health": 24,
+    "agility": 3,
+    "strength": 16,
+    "hostility": 8
+  },
+  "snake_mage": {
+    "name": "Змей-маг",
+    "rank": 5,
+    "symbol": "s",
+    "health": 10,
+    "agility": 16,
+    "strength": 5,
+    "hostility": 11
+  },
+  "mimic": {
+    "name": "Мимик",
+    "rank": 6,
+    "symbol": "m",
+    "health": 22,
+    "agility": 14,
+    "strength": 4,
+    "hostility": 2
+  }
+}
